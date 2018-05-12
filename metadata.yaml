@@ -1,0 +1,40 @@
+_repo: British-GoblinsWelsh-Folk-lore-Fairy-Mythology-Legends-and-Traditions_34704
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thomas, T. H. (Thomas Henry)
+    aliases:
+    - Arlunydd Penygarn
+    - Thomas, Thomas Henry
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '37177'
+    url: http://www.gutenberg.org/2009/agents/37177
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sikes, Wirt
+    birthdate: 1836
+    deathdate: 1883
+    gutenberg_agent_id: '37176'
+    url: http://www.gutenberg.org/2009/agents/37176
+description: ''
+gutenberg_issued: '2010-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Welsh'
+- !lcsh 'Folklore -- Wales'
+- !lcsh 'Goblins -- Wales'
+- !lcsh 'Mythology, Celtic -- Wales'
+- !lcsh 'Wales -- Social life and customs'
+- !lcc 'GR'
+title: 'British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions'
+url: http://www.gutenberg.org/ebooks/34704
